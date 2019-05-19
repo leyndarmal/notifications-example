@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "removeComments": false,
+        "resolveJsonModule": true,
+        "noImplicitAny": false,
+        "baseUrl": ".",
+        "outDir": "dist/"
+    },
+    "exclude": [
+        "../node_modules",
+        "node_modules"
+    ]
+}

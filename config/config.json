@@ -1,0 +1,15 @@
+{
+    "mailgunApiKey": "mailgunApiKey",
+    "whatsApp": {
+        "instanceId": "10",
+        "clientId": "clientId",
+        "clientSecret": "clientSecret"
+
+    },
+    "dev": {
+        "mailgunDomain": "domain"
+    },
+    "stage": {
+      
+    }
+}
